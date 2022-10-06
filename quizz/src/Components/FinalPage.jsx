@@ -28,7 +28,7 @@ const FinalPage = ({
     <Card>
       <h1 className="heading">You reached the end of the game, {username}!</h1>
 
-      <h3 className="primary_text">Your final score is:</h3>
+      <h3 className="primary_text">Final score is:</h3>
 
       <h3 className="final_score">{score}</h3>
 
