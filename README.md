@@ -28,6 +28,21 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 
+**What’s Included?**
+Your environment will have everything you need to build a modern single-page React app:
+
+React, JSX, ES6, TypeScript and Flow syntax support.
+Language extras beyond ES6 like the object spread operator.
+Autoprefixed CSS, so you don’t need -webkit- or other prefixes.
+A fast interactive unit test runner with built-in support for coverage reporting.
+A live development server that warns about common mistakes.
+A build script to bundle JS, CSS, and images for production, with hashes and sourcemaps.
+An offline-first service worker and a web app manifest, meeting all the Progressive Web App criteria. (Note: Using the service worker is opt-in as of react-scripts@2.0.0 and higher)
+Hassle-free updates for the above tools with a single dependency.
+Check out this guide for an overview of how these tools fit together.
+
+The tradeoff is that these tools are preconfigured to work in a specific way. If your project needs more customization, you can "eject" and customize it, but then you will need to maintain this configuration.
+
 
 **npm run eject**
 Note: this is a one-way operation. Once you eject, you can't go back!
