@@ -33,7 +33,7 @@ const FinalPage = ({
       <h3 className="final_score">{score}</h3>
 
       <button className="play_again_btn" onClick={handleClick}>
-        Go Again
+        Play Again
       </button>
     </Card>
   );
